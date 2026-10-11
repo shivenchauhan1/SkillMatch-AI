@@ -1,0 +1,107 @@
+{
+  "Data Analyst": {
+    "description": "Analyze data, clean datasets, write SQL queries, create dashboards, communicate insights, and support decisions with statistics and visualization.",
+    "required_skills": [
+      "sql",
+      "excel",
+      "pandas",
+      "data cleaning",
+      "statistics",
+      "data visualization",
+      "power bi",
+      "tableau",
+      "communication",
+      "problem solving"
+    ],
+    "roadmap": [
+      "Practice SQL joins, aggregations, and window functions using a small local dataset.",
+      "Build a Power BI or Tableau dashboard and explain three evidence-based insights.",
+      "Practice data cleaning and exploratory analysis with pandas.",
+      "Write a short report explaining assumptions, limitations, and recommendations."
+    ]
+  },
+  "Machine Learning Intern": {
+    "description": "Prepare data, engineer features, train and evaluate machine learning models, use Python and scikit-learn, and communicate model limitations.",
+    "required_skills": [
+      "python",
+      "pandas",
+      "numpy",
+      "scikit-learn",
+      "machine learning",
+      "feature engineering",
+      "model evaluation",
+      "statistics",
+      "git",
+      "problem solving"
+    ],
+    "roadmap": [
+      "Review Python, pandas, NumPy, and data preprocessing.",
+      "Train a baseline regression or classification model with scikit-learn.",
+      "Use a train/test split and explain a suitable evaluation metric.",
+      "Publish a reproducible project with a README and documented limitations."
+    ]
+  },
+  "Data Scientist": {
+    "description": "Use Python, SQL, statistics, data visualization, machine learning, and experimentation to build analytical models and communicate findings.",
+    "required_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "numpy",
+      "statistics",
+      "data visualization",
+      "machine learning",
+      "scikit-learn",
+      "feature engineering",
+      "model evaluation",
+      "communication"
+    ],
+    "roadmap": [
+      "Strengthen statistics, probability, SQL, and exploratory data analysis.",
+      "Complete an end-to-end project with data cleaning, a baseline, and model evaluation.",
+      "Practice explaining model assumptions, bias, limitations, and uncertainty.",
+      "Create a concise portfolio case study with reproducible code and visualizations."
+    ]
+  },
+  "Frontend Developer": {
+    "description": "Build responsive web interfaces with HTML, CSS, JavaScript, React, Git, and API integration, and test usability across devices.",
+    "required_skills": [
+      "html",
+      "css",
+      "javascript",
+      "react",
+      "git",
+      "github",
+      "rest api",
+      "problem solving",
+      "communication"
+    ],
+    "roadmap": [
+      "Build a responsive multi-page interface with semantic HTML and CSS.",
+      "Practice JavaScript fundamentals and asynchronous API requests.",
+      "Create a small React application with reusable components.",
+      "Deploy a portfolio project and document setup and accessibility decisions."
+    ]
+  },
+  "Backend Developer": {
+    "description": "Develop APIs and server-side services, work with databases, test endpoints, use Git, and understand deployment and application security basics.",
+    "required_skills": [
+      "python",
+      "java",
+      "sql",
+      "rest api",
+      "api",
+      "postgresql",
+      "mongodb",
+      "git",
+      "docker",
+      "problem solving"
+    ],
+    "roadmap": [
+      "Build a REST API with input validation and clear error responses.",
+      "Practice SQL schema design, queries, and database migrations.",
+      "Add automated tests and version control to a small backend project.",
+      "Learn environment variables, logging, and secure configuration basics."
+    ]
+  }
+}
